@@ -15,6 +15,7 @@ CLIUniApp is an interactive system designed for a local university to manage stu
 
 - **Admin System**:
   - **Data Management**: Admins can view, group, and partition students by grades, remove students, and clear the entire student data file. Admins do not require login to access these functionalities.
+  - ##DataFile##: the datafile is an CSV format
 
 #### Technical Details:
 - **Languages**: Developed in Python.
