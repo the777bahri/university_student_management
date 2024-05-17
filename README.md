@@ -75,8 +75,9 @@ I have installed 4 libraries in addition to the default Python libraries:
 
 4. Tkinter
    ```
-   pip install tk
+   pip install tkinter
    ```
+   this library it comes already as standard with python
 
 Functionalities and features of each component in the system:
 ### University GUI (University_GUI.py)
