@@ -142,7 +142,7 @@ class Student_LoginApp:
         go_back_button = tk.Button(self.top, text="Go Back", command=self.go_back_button_clicked)
         go_back_button.pack()  # Adjust packing as needed
         log_in_button = tk.Button(self.top, text="Student LOGIN", command= self.login)
-        Registration_button = tk.Button(self.top, text="Stdudent Registration Foarm", command=self.registration)
+        Registration_button = tk.Button(self.top, text="Student Registration Foarm", command=self.registration)
         
         self.canvas.create_window(self.bg_height/6, self.bg_width/5.0, anchor="nw", window=log_in_button)
         self.canvas.create_window(self.bg_height/6, self.bg_width/3.8, anchor="nw", window=Registration_button)
